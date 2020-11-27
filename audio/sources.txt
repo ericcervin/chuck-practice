@@ -1,3 +1,6 @@
+clap_01.wav - Kadenze's Programming for Musicians and Digital Artists course
+hihat_01.wav - Kadenze's Programming for Musicians and Digital Artists course
+kick_02.wav - Kadenze's Programming for Musicians and Digital Artists course
 sample1.wav - Christmas With Swastika Girls
 sample2.wav - my mouth
 sample3.wav - Recorded December 2013 on 26th St between Broadway and McDougall in Everett, Washington
