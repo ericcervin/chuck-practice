@@ -1,0 +1,13 @@
+//chuck_practice_20201129
+//a Chuck MOOC assignment from 2013
+//initialize.ck
+
+////////////////////////////////////////////////////////////////////////////////
+////////////////////You Might Want to Turn Down Your Volume A Little ///////////
+////////////////////////////////////////////////////////////////////////////////
+
+//I enjoy watching how animated the virtual machine is while this is running.
+
+//add score.ck
+me.dir() + "/score.ck" => string scorePath;
+Machine.add(scorePath);//start score
