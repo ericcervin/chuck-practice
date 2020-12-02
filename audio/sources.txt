@@ -1,4 +1,5 @@
 clap_01.wav - Kadenze's Programming for Musicians and Digital Artists course
+cowbell_01.wav - Kadenze's Programming for Musicians and Digital Artists course
 hihat_01.wav - Kadenze's Programming for Musicians and Digital Artists course
 kick_02.wav - Kadenze's Programming for Musicians and Digital Artists course
 sample1.wav - Christmas With Swastika Girls
