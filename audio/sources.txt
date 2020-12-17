@@ -10,6 +10,14 @@ tr-09-bd-long.wav - my Roland TR-09
 tr-09-bd-long-low.wav - my Roland TR-09
 tr-09-bd-low.wav - my Roland TR-09
 tr-09-clap.wav - my Roland TR-09
+tr-09-ht.wav - my Roland TR-09
+tr-09-ht-long.wav - my Roland TR-09
+tr-09-ht-long-low.wav - my Roland TR-09
+tr-09-ht-low.wav - my Roland TR-09
+tr-09-lt.wav - my Roland TR-09
+tr-09-lt-long.wav - my Roland TR-09
+tr-09-lt-long-low.wav - my Roland TR-09
+tr-09-lt-low.wav - my Roland TR-09
 tr-09-rim.wav - my Roland TR-09
 tr-09-sd.wav - my Roland TR-09
 tr-09-sd-low.wav - my Roland TR-09
