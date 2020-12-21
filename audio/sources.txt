@@ -5,11 +5,16 @@ kick_02.wav - Kadenze's Programming for Musicians and Digital Artists course
 sample1.wav - Christmas With Swastika Girls
 sample2.wav - my mouth
 sample3.wav - Recorded December 2013 on 26th St between Broadway and McDougall in Everett, Washington
+sample4.wav - my mouth
 tr-09-bd.wav - my Roland TR-09
 tr-09-bd-long.wav - my Roland TR-09
 tr-09-bd-long-low.wav - my Roland TR-09
 tr-09-bd-low.wav - my Roland TR-09
+tr-09-ch.wav - my Roland TR-09
+tr-09-ch-long.wav - my Roland TR-09
 tr-09-clap.wav - my Roland TR-09
+tr-09-crash.wav - my Roland TR-09
+tr-09-crash-low.wav - my Roland TR-09
 tr-09-ht.wav - my Roland TR-09
 tr-09-ht-long.wav - my Roland TR-09
 tr-09-ht-long-low.wav - my Roland TR-09
@@ -18,6 +23,10 @@ tr-09-lt.wav - my Roland TR-09
 tr-09-lt-long.wav - my Roland TR-09
 tr-09-lt-long-low.wav - my Roland TR-09
 tr-09-lt-low.wav - my Roland TR-09
+tr-09-oh.wav - my Roland TR-09
+tr-09-oh-long.wav - my Roland TR-09
+tr-09-ride.wav - my Roland TR-09
+tr-09-ride-low.wav - my Roland TR-09
 tr-09-rim.wav - my Roland TR-09
 tr-09-sd.wav - my Roland TR-09
 tr-09-sd-low.wav - my Roland TR-09
