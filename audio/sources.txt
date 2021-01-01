@@ -23,6 +23,10 @@ tr-09-lt.wav - my Roland TR-09
 tr-09-lt-long.wav - my Roland TR-09
 tr-09-lt-long-low.wav - my Roland TR-09
 tr-09-lt-low.wav - my Roland TR-09
+tr-09-mt.wav - my Roland TR-09
+tr-09-mt-long.wav - my Roland TR-09
+tr-09-mt-long-low.wav - my Roland TR-09
+tr-09-mt-low.wav - my Roland TR-09
 tr-09-oh.wav - my Roland TR-09
 tr-09-oh-long.wav - my Roland TR-09
 tr-09-ride.wav - my Roland TR-09
