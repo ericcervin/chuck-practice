@@ -7,6 +7,7 @@ sample1.wav - Christmas With Swastika Girls
 sample2.wav - my mouth
 sample3.wav - Recorded December 2013 on 26th St between Broadway and McDougall in Everett, Washington
 sample4.wav - my mouth
+sample5.wav - my mouth
 tr-09-bd.wav - my Roland TR-09
 tr-09-bd-long.wav - my Roland TR-09
 tr-09-bd-long-low.wav - my Roland TR-09
