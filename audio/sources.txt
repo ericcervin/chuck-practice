@@ -8,6 +8,8 @@ sample2.wav - my mouth
 sample3.wav - Recorded December 2013 on 26th St between Broadway and McDougall in Everett, Washington
 sample4.wav - my mouth
 sample5.wav - my mouth
+sample6.wav - my mouth
+sample7.wav - my mouth
 tr-8-08-bd.wav - my Roland TR-8
 tr-8-08-bd-long.wav - my Roland TR-8
 tr-8-08-bd-long-low.wav - my Roland TR-8
